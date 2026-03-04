@@ -1,0 +1,3 @@
+# Rannsóknir
+
+Placeholder rannsóknir (Íslenska).
