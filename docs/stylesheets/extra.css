@@ -1,0 +1,32 @@
+/* LANGUAGE BLOCK VISIBILITY */
+.lang-block { display: none; }
+
+.lang-is .lang-block.is { display: block; }
+.lang-en .lang-block.en { display: block; }
+
+/* LANGUAGE TOGGLE */
+.lang-toggle {
+  display: inline-flex;
+  gap: .5rem;
+  align-items: center;
+  font-size: .9rem;
+  padding: .25rem .5rem;
+  border-radius: 6px;
+  border: 1px solid rgba(0,0,0,.1);
+  margin-left: 1rem;
+}
+.lang-toggle button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: .25rem .5rem;
+}
+.lang-toggle button.active {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+/* OPTIONAL branding tweaks */
+.md-header {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
