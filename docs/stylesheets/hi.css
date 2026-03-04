@@ -1,0 +1,128 @@
+/* =====================================================
+   HÁSKÓLI ÍSLANDS – INSTITUTIONAL COLOUR SYSTEM
+   ===================================================== */
+
+/* -------------------------
+   1. Named Brand Variables
+   ------------------------- */
+
+:root {
+
+  /* Brand Core */
+  --hi-blue: #10099F;
+  --hi-darkblue: #0A0561;
+  --hi-lightblue: #E5EDFF;
+
+  --hi-pink: #D61F69;
+  --hi-darkpink: #BF125D;
+  --hi-lightpink: #F4B8CE;
+
+  /* Neutral System */
+  --hi-black: #1C1C1C;
+  --hi-darkgrey: #707070;
+  --hi-grey: #D3D3D3;
+  --hi-lightgray: #FCFCFC;
+  --hi-white: #FFFFFF;
+}
+
+/* -------------------------
+   2. Global Layout
+   ------------------------- */
+
+body {
+  background-color: var(--hi-lightgray);
+  color: var(--hi-black);
+}
+
+/* -------------------------
+   3. Header & Navigation
+   ------------------------- */
+
+.md-header {
+  background-color: var(--hi-blue);
+}
+
+.md-tabs {
+  background-color: var(--hi-blue);
+}
+
+.md-nav--primary {
+  background-color: var(--hi-darkblue);
+}
+
+/* -------------------------
+   4. Typography Hierarchy
+   ------------------------- */
+
+/* Main page title */
+h1 {
+  color: var(--hi-darkblue);
+  font-weight: 600;
+}
+
+/* Section headings */
+h2 {
+  color: var(--hi-blue);
+  font-weight: 600;
+}
+
+/* Subsections (accent use only) */
+h3 {
+  color: var(--hi-pink);
+  font-weight: 600;
+}
+
+/* Paragraph text */
+p {
+  color: var(--hi-black);
+}
+
+/* -------------------------
+   5. Links
+   ------------------------- */
+
+a {
+  color: var(--hi-blue);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--hi-darkblue);
+  text-decoration: underline;
+}
+
+/* -------------------------
+   6. Buttons
+   ------------------------- */
+
+.md-button {
+  background-color: var(--hi-pink);
+  border-color: var(--hi-pink);
+  color: var(--hi-white);
+}
+
+.md-button:hover {
+  background-color: var(--hi-darkpink);
+  border-color: var(--hi-darkpink);
+}
+
+/* -------------------------
+   7. Content Blocks
+   ------------------------- */
+
+/* Light blue emphasis blocks */
+.md-typeset blockquote {
+  background-color: var(--hi-lightblue);
+  border-left: 4px solid var(--hi-blue);
+  padding: 1rem;
+}
+
+/* Code background */
+.md-typeset code {
+  background-color: var(--hi-lightblue);
+}
+
+/* Disabled elements look */
+.md-nav__link--disabled {
+  color: var(--hi-grey);
+}
