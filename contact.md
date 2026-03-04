@@ -7,7 +7,7 @@ Við fögnum ábendingum, samstarfi og spurningum.
 ## Tengiliðir
 - **Netfang**: helgaingim[hjá]hi.is
 - **Instagram**: [@hidefTextiles](https://www.instagram.com/hideftextiles/)
-- **Facebook**: [@hidefTextiles](https://www.facebook.com/hideftextiles)
+- **Facebook**: [@hidefTextiles](https://www.facebook.com/profile.php?id=61561112782546)
 - **GitHub**: [HiDefTextiles](https://github.com/HiDefTextiles)
 
 ## Hvernig get ég tekið þátt?
@@ -28,7 +28,7 @@ We welcome feedback, collaboration, and questions.
 ## Contacts
 - **Email**: helgaingim[at]hi.is  
 - **Instagram**: [@hidefTextiles](https://www.instagram.com/hideftextiles/)
-- **Facebook**: [@hidefTextiles](https://www.facebook.com/hideftextiles)  
+- **Facebook**: [@hidefTextiles](https://www.facebook.com/profile.php?id=61561112782546)  
 - **GitHub**: [hidefTextiles](https://github.com/HiDefTextiles)
 
 ## How to get involved
