@@ -1,6 +1,6 @@
 # Heim
 
-Velkomin á HiDef textíll — placeholder.
+Velkomin á HiDef textíll — þessi síða er í vinnslu.
 
 - [Um](about.md)
 - [Rannsóknir](research.md)
