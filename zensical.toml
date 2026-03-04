@@ -1,0 +1,29 @@
+[project]
+site_name = "HiDef textíll"
+site_url = "https://hideftextiles.github.io/site/"
+site_description = "HiDef textíll sameinar textíl, tækni og rannsóknahugbúnað við íslenskan menningararf og sjálfbærni, með áherslu á nýsköpun, miðlun og þátttöku almennings."
+site_author = "Helga Ingimundardóttir"
+copyright = "&copy; 2026 Helga Ingimundardóttir"
+
+[project.theme]
+variant = "modern"
+language = "is"
+font.text = "Jost"
+font.code = "JetBrains Mono"
+
+[project.theme.palette]
+palette.scheme = "hi"
+
+# Where content lives and where the built site goes
+docs_dir = "docs"
+site_dir = "site"
+
+# --- Static assets: CSS & JS (loaded on every page) ---
+[[extra.css]]
+path = "stylesheets/extra.css"     # bilingual helpers (show/hide blocks)
+
+[project.extra]
+alternate = [
+    { name = "ÍS", link = "/is/", lang = "is" },
+    { name = "EN", link = "/en/", lang = "en" }
+]

@@ -1,3 +1,7 @@
+---
+title: Heim
+---
+
 # Heim
 
 Velkomin á HiDef textíll — þessi síða er í vinnslu.
